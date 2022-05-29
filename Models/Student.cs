@@ -13,19 +13,19 @@ namespace CRUD.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage ="Required")]
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         [Required(ErrorMessage = "Required")]
-        public int Fname { get; set; }
+        public string Fname { get; set; }
 
         [Required(ErrorMessage = "Required")]
         [DataType(DataType.EmailAddress)]
-        public int Email { get; set; }
+        public string Email { get; set; }
 
         [Required(ErrorMessage = "Required")]
-        public int Mobile { get; set; }
+        public string Mobile { get; set; }
 
-        public int Description { get; set; }
+        public string Description { get; set; }
 
         [Required(ErrorMessage = "Required")]
         [Display(Name="Department")]

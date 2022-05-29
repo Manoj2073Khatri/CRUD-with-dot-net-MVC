@@ -1,3 +1,10 @@
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.RazorAssemblyInfo.cache
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.RazorAssemblyInfo.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\CRUD.exe
@@ -120,14 +127,6 @@ C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\runtimes\win
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.AssemblyReference.cache
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.RazorAssemblyInfo.cache
-C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.RazorAssemblyInfo.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\staticwebassets\CRUD.StaticWebAssets.Manifest.cache
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\staticwebassets\CRUD.StaticWebAssets.xml
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUD.styles.css
@@ -139,6 +138,8 @@ C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Student\StudentList.cshtml.g.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.RazorTargetAssemblyInfo.cache
@@ -148,3 +149,4 @@ C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
 C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache
+C:\Users\DEll\Desktop\Practice\dot net\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.AssemblyReference.cache

@@ -7,14 +7,12 @@
 <h1>StudentList</h1>
 
 <p class="float-right">
-    <a asp-action="Create" class="btn btn-outline-primary">Create New</a>
+    <a asp-action="Create" class="btn btn-outline-primary">add New</a>
 </p>
 <table class="table">
     <thead>
         <tr>
-            @*<th>
-            @Html.DisplayNameFor(model => model.Id)
-        </th>*@
+           <th>Actions</th>
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
@@ -43,9 +41,11 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            @*<td>
-            @Html.DisplayFor(modelItem => item.Id)
-        </td>*@
+            <td>
+                @Html.ActionLink("Edit", "Create", new {  id=item.Id,item.Name,item.Fname,item.Email,item.Mobile,item.Department,item.Description},new { @class="btn btn-success"}) |
+
+                @Html.ActionLink("Delete", "DeleteStd", new { id=item.Id}, new { @class = "btn btn-danger" ,onclick="return confirm('Do you really want to delete')"})
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
@@ -68,11 +68,7 @@
             @Html.DisplayFor(modelItem => item.DepID)
         </td>*@
 
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
+
         </tr>
 }
     </tbody>
